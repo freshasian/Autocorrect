@@ -1,6 +1,7 @@
 # Title
 
-Simple (or clever and funny?) description
+My project that I created correct sentence and words.
+I reccomend that the word suggester on takes words and reccomend similar words.
 
 ## Table of Contents
 
