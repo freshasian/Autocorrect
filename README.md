@@ -25,3 +25,14 @@ These are the steps to use the application or interact with it.
 
 ### Any optional sections
 
+## Test Plan
+
+To test the project:
+
+1.  Run the test
+2.  Check the results
+3.  Submit test report
+line 4
+
+
+
